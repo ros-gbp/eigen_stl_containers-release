@@ -15,7 +15,7 @@ tracks:
     release_tag: :{version}
     ros_distro: groovy
     vcs_type: hg
-    vcs_uri: https://kforge.ros.org/geometry/eigen_stl_containers
+    vcs_uri: git@github.com:ros/eigen_stl_containers.git
     version: :{auto}
   hydro:
     actions:
@@ -34,5 +34,5 @@ tracks:
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: hg
-    vcs_uri: https://kforge.ros.org/geometry/eigen_stl_containers
+    vcs_uri: git@github.com:ros/eigen_stl_containers.git
     version: :{auto}
