@@ -8,13 +8,13 @@ tracks:
     - git-bloom-generate -y rosrelease :{ros_distro} --source upstream -i :{release_inc}
     - git-bloom-generate -y rosdebian --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc}
-    devel_branch: default
+    devel_branch: master
     name: upstream
     patches: null
     release_inc: -1
     release_tag: :{version}
     ros_distro: groovy
-    vcs_type: hg
+    vcs_type: github
     vcs_uri: git@github.com:ros/eigen_stl_containers.git
     version: :{auto}
   hydro:
@@ -26,13 +26,13 @@ tracks:
     - git-bloom-generate -y rosrelease :{ros_distro} --source upstream -i :{release_inc}
     - git-bloom-generate -y rosdebian --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc}
-    devel_branch: default
+    devel_branch: master
     last_version: 0.1.3
     name: upstream_hydro
     patches: null
     release_inc: '0'
     release_tag: :{version}
     ros_distro: hydro
-    vcs_type: hg
+    vcs_type: github
     vcs_uri: git@github.com:ros/eigen_stl_containers.git
     version: :{auto}
