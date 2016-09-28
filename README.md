@@ -1,3 +1,26 @@
+## eigen_stl_containers (jade) - 0.1.6-0
+
+The packages in the `eigen_stl_containers` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade eigen_stl_containers` on `Wed, 28 Sep 2016 09:35:30 -0000`
+
+The `eigen_stl_containers` package was released.
+
+Version of package(s) in repository `eigen_stl_containers`:
+
+- upstream repository: https://github.com/ros/eigen_stl_containers
+- release repository: https://github.com/ros-gbp/eigen_stl_containers-release.git
+- rosdistro version: `0.1.4-0`
+- old version: `0.1.4-0`
+- new version: `0.1.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## eigen_stl_containers (indigo) - 0.1.6-0
 
 The packages in the `eigen_stl_containers` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo eigen_stl_containers` on `Wed, 28 Sep 2016 08:44:49 -0000`
