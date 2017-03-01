@@ -1,3 +1,26 @@
+## eigen_stl_containers (lunar) - 0.1.7-0
+
+The packages in the `eigen_stl_containers` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar eigen_stl_containers --edit` on `Wed, 01 Mar 2017 17:19:52 -0000`
+
+The `eigen_stl_containers` package was released.
+
+Version of package(s) in repository `eigen_stl_containers`:
+
+- upstream repository: https://github.com/ros/eigen_stl_containers
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.7-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## eigen_stl_containers (kinetic) - 0.1.6-0
 
 The packages in the `eigen_stl_containers` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic eigen_stl_containers` on `Wed, 28 Sep 2016 09:40:18 -0000`
