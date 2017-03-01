@@ -1,0 +1,66 @@
+ros-lunar-eigen-stl-containers (0.1.7-0yakkety) yakkety; urgency=high
+
+  * install headers to CATKIN_PACKAGE_INCLUDE_DESTINATION (#4 <https://github.com/ros/eigen_stl_containers/issues/4>)
+  * Added more typedefs for std::vectors of Eigen types (#8 <https://github.com/ros/eigen_stl_containers/issues/8>)
+  * Contributors: Michael Görner, Victor Lamoine
+
+ -- Chris Lalancette <clalancette@osrfoundation.org>  Wed, 01 Mar 2017 08:00:00 -0000
+
+ros-lunar-eigen-stl-containers (0.1.6-0yakkety) yakkety; urgency=high
+
+  * Fixed exporting of eigen3 depends (#6 <https://github.com/ros/eigen_stl_containers/issues/6>)
+  * Contributors: Kei Okada
+
+ -- Chris Lalancette <clalancette@osrfoundation.org>  Wed, 28 Sep 2016 07:00:00 -0000
+
+ros-lunar-eigen-stl-containers (0.1.5-0yakkety) yakkety; urgency=high
+
+  * Merge pull request #3 <https://github.com/ros/eigen_stl_containers/issues/3> from scpeters/patch-1
+    add links to repository and issue tracker
+  * add links to repository and issue tracker
+  * Added tag 0.1.4 for changeset 27d05d1c09b5
+  * Contributors: Ioan Sucan, Steven Peters, William Woodall
+
+ -- Chris Lalancette <clalancette@osrfoundation.org>  Wed, 23 Mar 2016 07:00:00 -0000
+
+ros-lunar-eigen-stl-containers (0.1.4-0yakkety) yakkety; urgency=high
+
+  * properly export includes and depends for catkin
+  * Added tag 0.1.3 for changeset 93304e48d411
+  * Contributors: Ioan Sucan
+
+ -- Chris Lalancette <clalancette@osrfoundation.org>  Wed, 13 Mar 2013 07:00:00 -0000
+
+ros-lunar-eigen-stl-containers (0.1.3-0yakkety) yakkety; urgency=high
+
+  * Added tag 0.1.2 for changeset a0b26dabeaec
+  * Contributors: Ioan Sucan
+
+ -- Chris Lalancette <clalancette@osrfoundation.org>  Sat, 15 Dec 2012 08:00:00 -0000
+
+ros-lunar-eigen-stl-containers (0.1.2-0yakkety) yakkety; urgency=high
+
+  * bump version
+  * Added tag 0.1.2 for changeset 17cd6bd5aedd
+  * switching to package.xml
+  * Added tag 0.1.1 for changeset 7647a299476f
+  * Contributors: Ioan Sucan
+
+ -- Chris Lalancette <clalancette@osrfoundation.org>  Thu, 18 Oct 2012 07:00:00 -0000
+
+ros-lunar-eigen-stl-containers (0.1.1-0yakkety) yakkety; urgency=high
+
+  * add more typedefs
+  * Added tag 0.1.0 for changeset 14f67f1013f4
+  * Contributors: Ioan Sucan
+
+ -- Chris Lalancette <clalancette@osrfoundation.org>  Wed, 19 Sep 2012 07:00:00 -0000
+
+ros-lunar-eigen-stl-containers (0.1.0-0yakkety) yakkety; urgency=high
+
+  * add vector types
+  * Contributors: Ioan Sucan
+
+ -- Chris Lalancette <clalancette@osrfoundation.org>  Sun, 12 Aug 2012 07:00:00 -0000
+
+
