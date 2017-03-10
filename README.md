@@ -1,3 +1,26 @@
+## eigen_stl_containers (indigo) - 0.1.8-0
+
+The packages in the `eigen_stl_containers` repository were released into the `indigo` distro by running `/usr/bin/bloom-release eigen_stl_containers --track indigo --rosdistro indigo` on `Fri, 10 Mar 2017 19:17:45 -0000`
+
+The `eigen_stl_containers` package was released.
+
+Version of package(s) in repository `eigen_stl_containers`:
+
+- upstream repository: https://github.com/ros/eigen_stl_containers
+- release repository: https://github.com/ros-gbp/eigen_stl_containers-release.git
+- rosdistro version: `0.1.4-0`
+- old version: `0.1.6-0`
+- new version: `0.1.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.24`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## eigen_stl_containers (lunar) - 0.1.7-0
 
 The packages in the `eigen_stl_containers` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar eigen_stl_containers --edit` on `Wed, 01 Mar 2017 17:19:52 -0000`
