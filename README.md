@@ -1,3 +1,26 @@
+## eigen_stl_containers (noetic) - 0.1.8-1
+
+The packages in the `eigen_stl_containers` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic eigen_stl_containers` on `Thu, 06 Feb 2020 22:51:02 -0000`
+
+The `eigen_stl_containers` package was released.
+
+Version of package(s) in repository `eigen_stl_containers`:
+
+- upstream repository: https://github.com/ros/eigen_stl_containers
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## eigen_stl_containers (melodic) - 0.1.8-0
 
 The packages in the `eigen_stl_containers` repository were released into the `melodic` distro by running `/usr/bin/bloom-release eigen_stl_containers --track melodic --rosdistro melodic` on `Wed, 21 Feb 2018 21:50:38 -0000`
