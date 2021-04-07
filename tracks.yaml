@@ -61,7 +61,7 @@ tracks:
     release_tag: :{version}
     ros_distro: indigo
     vcs_type: git
-    vcs_uri: https://github.com/ros/eigen_stl_containers
+    vcs_uri: https://github.com/ros/eigen_stl_containers.git
     version: :{auto}
   jade:
     actions:
@@ -85,7 +85,7 @@ tracks:
     release_tag: :{version}
     ros_distro: jade
     vcs_type: git
-    vcs_uri: https://github.com/ros/eigen_stl_containers
+    vcs_uri: https://github.com/ros/eigen_stl_containers.git
     version: :{auto}
   kinetic:
     actions:
@@ -109,7 +109,7 @@ tracks:
     release_tag: :{version}
     ros_distro: kinetic
     vcs_type: git
-    vcs_uri: https://github.com/ros/eigen_stl_containers
+    vcs_uri: https://github.com/ros/eigen_stl_containers.git
     version: :{auto}
   lunar:
     actions:
@@ -133,7 +133,7 @@ tracks:
     release_tag: :{version}
     ros_distro: lunar
     vcs_type: git
-    vcs_uri: https://github.com/ros/eigen_stl_containers
+    vcs_uri: https://github.com/ros/eigen_stl_containers.git
     version: :{auto}
   melodic:
     actions:
@@ -157,7 +157,7 @@ tracks:
     release_tag: :{version}
     ros_distro: melodic
     vcs_type: git
-    vcs_uri: https://github.com/ros/eigen_stl_containers
+    vcs_uri: https://github.com/ros/eigen_stl_containers.git
     version: :{auto}
   noetic:
     actions:
@@ -181,5 +181,5 @@ tracks:
     release_tag: :{version}
     ros_distro: noetic
     vcs_type: git
-    vcs_uri: https://github.com/ros/eigen_stl_containers
+    vcs_uri: https://github.com/ros/eigen_stl_containers.git
     version: :{auto}
